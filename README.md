@@ -216,8 +216,8 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenkumarr)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveenkumarr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/rnaveenkumar21/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://https://github.com/Naveenkumar-nk21/Naveenkumar-nk21)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenkumar.r2023@vitstudent.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/naveenkumarr)
 
