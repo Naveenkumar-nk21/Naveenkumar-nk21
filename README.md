@@ -13,9 +13,6 @@
 
 ---
 
-<!-- CODE BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ```python
 class NaveenKumarR:
     def __init__(self):
@@ -23,7 +20,7 @@ class NaveenKumarR:
         self.location    = "Vellore, Tamil Nadu, India"
         self.degree      = "M.Tech Integrated – Software Engineering"
         self.college     = "Vellore Institute of Technology (VIT)"
-        self.cgpa        = 8.71
+        self.cgpa        = 8.80
         self.stack       = [
             "Python", "Java", "C", "C++",
             "HTML", "CSS", "MySQL",
