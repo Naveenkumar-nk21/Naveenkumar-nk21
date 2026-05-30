@@ -100,10 +100,10 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/naveenkumarr">
+<a href="https://github.com/Naveenkumar-nk21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenkumarr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/naveenkumarr">
+<a href="https://github.com/Naveenkumar-nk21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -126,16 +126,6 @@ print(me.motto())
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumarr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=naveenkumarr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 
 </div>
 
@@ -216,8 +206,8 @@ print(me.motto())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/rnaveenkumar21/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://https://github.com/Naveenkumar-nk21/Naveenkumar-nk21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rnaveenkumar21/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Naveenkumar-nk21/Naveenkumar-nk21)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenkumar.r2023@vitstudent.ac.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/naveenkumarr)
 
