@@ -12,7 +12,8 @@
 </div>
 
 ---
-
+<!-- CODE BLOCK ABOUT ME -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 ```python
 class NaveenKumarR:
     def __init__(self):
