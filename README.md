@@ -101,10 +101,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Naveenkumar-nk21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-nk21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-nk21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/Naveenkumar-nk21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-nk21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar-nk21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -115,7 +115,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=naveenkumarr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Naveenkumar-nk21&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -125,7 +125,7 @@ print(me.motto())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naveenkumarr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveenkumar-nk21&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
