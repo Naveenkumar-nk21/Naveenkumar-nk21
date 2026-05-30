@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=naveenkumarr&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
 <!-- TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%2C+I'm+Naveen+Kumar+R+%F0%9F%91%8B;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Developer;M.Tech+Software+Engineering+%40+VIT;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+There%2C+I'm+Naveen+Kumar+%F0%9F%91%8B;AI+%7C+ML+%7C+Blockchain+%7C+IoT+Aspirant;M.Tech+Software+Engineering+%40+VIT;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
@@ -101,10 +101,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Naveenkumar-nk21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenkumarr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-nk21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/Naveenkumar-nk21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-nk21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -184,7 +184,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| 🎓 M.Tech Integrated – Software Engineering | Vellore Institute of Technology (VIT) | 2028 (Expected) | **CGPA: 8.71 / 10** |
+| 🎓 M.Tech Integrated – Software Engineering | Vellore Institute of Technology (VIT) | 2028 (Expected) | **CGPA: 8.80 / 10** |
 
 </div>
 
